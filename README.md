@@ -3,7 +3,7 @@
 A minimal, responsive portfolio to showcase my work in cybersecurity, coding, and creative problem-solving.
 
 ## 🔗 Live Preview
-holamigos.netlify.app
+https://holamigos.netlify.app/
 
 ## Features
 
